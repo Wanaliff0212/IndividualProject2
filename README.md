@@ -16,7 +16,7 @@ We are creating a simple calculator for our first mini project to learn basic pr
 
 Draw a flowchart to write the program of this task. You may draw a flowchart by using powerpoint, then save it as a picture in .jpg or .png.  
 Answer:  
-<image src = FlowchartCalculator.jpg>  
+<image src = Flowchart Calculator.jpg>  
 
 # Question 2
 
